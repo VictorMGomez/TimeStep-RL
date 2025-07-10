@@ -1,4 +1,4 @@
-Descripción del Proyecto
+Descripción del Proyecto: 
 Este proyecto explora el aprendizaje por refuerzo en robótica móvil, centrándose en el impacto de la duración de las acciones (dt) sobre el rendimiento y el aprendizaje de un robot diferencial simulado. Utilizando Gymnasium y Stable-Baselines3, se han desarrollado varios entornos personalizados en Python que simulan escenarios con obstáculos, sensores láser y objetivos aleatorios.
 El repositorio incluye tres variantes principales de entorno:
 
